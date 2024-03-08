@@ -1,0 +1,10 @@
+def hello_panda():
+    print()
+    print("    ◤         ◥")
+    print("   /            ＼")
+    print("  /    ◢     ◣    \\")
+    print(" ｜    ◤     ◥    ｜")
+    print(" 人       ◥◤     ノ")
+    print("◢■■◣◢■■■■\\\\ ///■■◣")
+    print("    Hello Panda!")
+    print()
